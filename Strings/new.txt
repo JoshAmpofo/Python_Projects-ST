@@ -1,0 +1,3 @@
+Using this to test my python's file writing capability, 
+This is a new line i wrote into text file using python's 
+write method!
